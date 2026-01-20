@@ -73,4 +73,5 @@ Local-AI/
 
 ## To-do 
 - Catch and fix , Error: listen tcp 127.0.0.1:11434: bind: address already in use 
-- Make the UI , phone friendly 
+- Make the UI , phone friendly
+- Add more AI models in `model_config.json` file
