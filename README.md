@@ -30,7 +30,7 @@ The system detects hardware, selects the best model, installs it if missing, and
 
 ---
 
-## CLI Automation
+## CLI Inteface
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2baad462-34a5-4ecd-9d7a-6b9ef0c288c7" width="48%" />
